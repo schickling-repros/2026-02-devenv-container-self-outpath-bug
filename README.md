@@ -32,4 +32,4 @@ In `devenv-nix-backend/bootstrap/resolve-lock.nix`, `rootSrc.outPath = src` rece
 
 ## Issue
 
-TODO: Link to filed issue
+https://github.com/cachix/devenv/issues/2482
